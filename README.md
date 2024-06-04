@@ -1,7 +1,7 @@
 <h1 align="center">💫 Shashwat Pandey</h1>
 <h3 align="center">I'm a passionate MERN stack developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwat7012&label=Profile%20views&color=0e75b6&style=flat" alt="shashwat7012" /> </p>
+
 
 - 🔭 I’m currently working on **LeetRank**
 
