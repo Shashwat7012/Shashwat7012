@@ -3,9 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **LeetRank**
 
-- 📫 How to reach me **shashwat051003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
